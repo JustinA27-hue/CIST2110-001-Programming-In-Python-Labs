@@ -1,5 +1,5 @@
-# Lab1
-# Author: Greg Walsh
+# Lab1 
+# Author: Justin 
 
 
 # 1. Uncomment the following print statement and run the program. Show the output to your instructor.
@@ -10,8 +10,8 @@ print("Hello World!")
 
 # 2. Add a print statement that prints your name. Run the program and show the output to your instructor.
 
-print("Greg Walsh")
+print ("Justin Agosto")
 
 # 3. Add a print statement that prints your favorite color. Run the program and show the output to your instructor.
 
-print("Black")
+print ("purple")
