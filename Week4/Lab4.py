@@ -1,12 +1,12 @@
 # Lab3
-# Author: 
+# Author: Justin Agosto
 
 """_summary_
 This lab is designed to get you familiar with Python Boolean Expressions, Conditional Expressions, if-elif-else statements, and while / for loops.
 """
 
 # 1. Write some code that asks the user for a number and prints out whether it is positive, negative, or zero.
-
+input("Enter a number: ")
 
 # 2. Write some code that asks the user for a number and prints out whether it is even or odd.
 
