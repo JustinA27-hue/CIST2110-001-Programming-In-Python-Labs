@@ -1,5 +1,5 @@
 # Lab3
-# Author: Justin Agosto
+# Author: 
 
 """_summary_
 This lab is designed to get you familiar with Python Boolean Expressions, Conditional Expressions, if-elif-else statements, and while / for loops.
