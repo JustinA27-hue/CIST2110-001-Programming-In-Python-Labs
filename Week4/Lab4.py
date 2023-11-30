@@ -1,18 +1,32 @@
 # Lab4
-# Author: 
+# Author: Justin Agosto
 
 """_summary_
 This lab is designed to get you familiar with Python Boolean Expressions, Conditional Expressions, if-elif-else statements, and while / for loops.
 """
 
 # 1. Write some code that asks the user for a number and prints out whether it is positive, negative, or zero.
-input("Enter a number: ")
+num = int(input("Enter a number: "))
+if num > 0:
+    print("Positive")
+elif num == 0:
+    print("Zero")
+else:
+    print("Negative")
 
 # 2. Write some code that asks the user for a number and prints out whether it is even or odd.
-
+num = int(input("Enter a number: "))
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
 
 # 3. Write some code that asks the user for a number and prints out all the numbers from 1 to that number using a while loop.
-
+a=1
+a = int(input("Enter a number: "))
+while a > 0:
+    print(a)
+    a -= 1
 # 4. Use a for loop to ask a user for 5 numbers and print out the average of those 5 numbers.
 
 # 5. Write some code that prints out all the numbers from 1 to 10 that are divisible by 3 or 5.
