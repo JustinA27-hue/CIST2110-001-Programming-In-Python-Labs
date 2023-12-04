@@ -7,10 +7,13 @@ This lab is designed to get you familiar with Python virtual environments as wel
 
 # 1. Create a virtual environment called "venv" in the current directory. (Type command here in comments)
 # python3 -m venv venv
+
 # 2. Activate the virtual environment. (Type command here in comments)
 # source venv/bin/activate
+
 # 3. Install the requests library. (Type command here in comments)
 # pip install requests
+
 # 4. import requests library here
 import requests
 # 5. Use the requests library to make a GET request to https://api.github.com/events
