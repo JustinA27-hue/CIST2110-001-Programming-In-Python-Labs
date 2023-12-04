@@ -1,5 +1,5 @@
 #Lab 9
-# Author:
+# Author:Justin Agosto
 
 """_summary_
 
@@ -8,7 +8,6 @@ This lab is designed to create a simple web application using streamlit and crea
 
 # 1. We will first need to activate and install streamlit.
 
-# pip install streamlit
 
 # 2. Import streamlit here as st and datetime as dt
 import streamlit as st
@@ -19,6 +18,7 @@ import datetime as dt
 def title():
     st.title("Date Counter")
     return
+
 
 
 # 4. Create a subheader for your web application. Streamlit has a function for this called subheader
