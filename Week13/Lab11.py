@@ -1,5 +1,5 @@
 # Lab 11
-# Author:
+# Author: Justin Agosto
 
 # Lab 11 will show basic understanding of Object Oriented Programming in Python.
 
